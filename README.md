@@ -1,1 +1,3 @@
-# .github
+# Elektrotechnik Messner
+
+Ein kleines Entwicklerteam aus Südtirol....
